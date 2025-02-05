@@ -7,3 +7,6 @@
 [submodule "Two_D6_Dice"]
 	path = Two_D6_Dice
 	url = https://github.com/purvasute/Two_D6_Dice
+[submodule "OneD6_OneD10_Dice"]
+	path = OneD6_OneD10_Dice
+	url = https://github.com/purvasute/OneD6_OneD10_Dice
