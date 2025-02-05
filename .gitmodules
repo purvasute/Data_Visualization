@@ -1,3 +1,6 @@
 [submodule "Random_Walk"]
 	path = Random_Walk
 	url = https://github.com/purvasute/Random_Walk
+[submodule "One_D6_Die"]
+	path = One_D6_Die
+	url = https://github.com/purvasute/One_D6_Die
