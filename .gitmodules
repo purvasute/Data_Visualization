@@ -4,3 +4,6 @@
 [submodule "One_D6_Die"]
 	path = One_D6_Die
 	url = https://github.com/purvasute/One_D6_Die
+[submodule "Two_D6_Dice"]
+	path = Two_D6_Dice
+	url = https://github.com/purvasute/Two_D6_Dice
